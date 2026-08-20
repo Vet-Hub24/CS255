@@ -1,22 +1,43 @@
-# CS255
-mod8
-CS 255 – System Analysis and Design Portfolio Artifact
-Project Summary
+# CS-255 System Analysis and Design
 
-The DriverPass project involved designing a web-based driver training management system for a client named DriverPass. The company wanted to provide students with online practice exams, instructional content, and on-the-road driving lesson scheduling to help them pass their DMV driving tests. My role was to analyze the client’s needs, document system requirements, and design a system that supported multiple user roles, online scheduling, progress tracking, and secure payment handling.
+## DriverPass System Design Project
 
-What I Did Well
+This repository contains my **CS-255 System Analysis and Design** portfolio work from Southern New Hampshire University. The project focused on analyzing a client's needs and designing a web-based driver-training management system for **DriverPass**.
 
-I believe I did particularly well in translating the interview transcript into structured, clear requirements. I carefully identified functional and nonfunctional requirements and ensured that each system component directly aligned with the client’s stated needs. I also focused on keeping the documentation organized and easy to follow.
+## Project Overview
 
-What I Would Revise
+DriverPass wanted a system that could help students prepare for DMV driving tests through online practice exams, instructional content, progress tracking, and on-the-road lesson scheduling.
 
-If I could revise one part of my work, I would further refine the nonfunctional requirements by adding more measurable performance metrics, such as response time targets or availability percentages. This would strengthen the technical precision of the design documentation.
+My role in the coursework was to study the client's requirements, identify functional and nonfunctional needs, and document how the proposed system should support different users and business processes.
 
-Interpreting User Needs
+## Areas Covered
 
-To interpret the user’s needs, I analyzed the interview transcript and identified key themes such as accessibility, scheduling flexibility, role-based security, and system tracking. I then translated those needs into clear system functions and constraints. Considering user needs is critical in system design because the success of a system depends on how well it solves real-world problems for its users. If user requirements are misunderstood, the system may function correctly but still fail to meet business goals.
+- Requirements gathering and analysis
+- Functional and nonfunctional requirements
+- User roles and access needs
+- Scheduling and progress tracking
+- Security considerations
+- Business process modeling
+- Use case diagrams
+- Data flow diagrams
+- System design documentation
 
-My Approach to Designing Software
+## What I Practiced
 
-When designing software, I start by understanding the problem and identifying stakeholders. I break the system into smaller processes, define inputs and outputs, and organize requirements into functional and nonfunctional categories. In the future, I plan to continue using structured modeling techniques such as use case diagrams, data flow diagrams, and iterative refinement to ensure systems are complete, consistent, and aligned with business objectives.
+One of the most useful parts of this project was translating a client interview into structured technical requirements. I worked on identifying what the system needed to do, which users would interact with each feature, and what constraints should be considered during design.
+
+The project also reinforced the importance of designing around user needs. A system can be technically functional and still fail if it does not solve the client's actual problem or support the intended users effectively.
+
+## Repository Contents
+
+This repository includes the business-requirements and system-design documents created during the course. These artifacts document the proposed DriverPass system from initial requirements through system design.
+
+## What I Learned
+
+The course gave me foundational experience with planning software before implementation. I learned how requirements, diagrams, security concerns, and user workflows can be documented before development begins, helping reduce confusion and rework later in a project.
+
+I would improve future design work by making nonfunctional requirements more measurable, such as defining target response times, availability goals, and other specific performance expectations.
+
+## Academic Note
+
+This is an academic portfolio project created as part of SNHU coursework. The materials are included to demonstrate my experience with introductory systems analysis, requirements documentation, and software design concepts.
